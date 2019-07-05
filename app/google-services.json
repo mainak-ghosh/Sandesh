@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381998224341",
+    "firebase_url": "https://sandesh-ano.firebaseio.com",
+    "project_id": "sandesh-ano",
+    "storage_bucket": "sandesh-ano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381998224341:android:afc3db302a2dad4f",
+        "android_client_info": {
+          "package_name": "com.example.sandesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381998224341-a7ec2i6nepmggv806cijhr64gnt42dr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sandesh",
+            "certificate_hash": "f6cac6102e0f6ae41410c6bb522b33304165af0d"
+          }
+        },
+        {
+          "client_id": "381998224341-9ivdqj953re4qdvmbl8nlk4q8ifu9q8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-fOMZ6g5LSSW3mjzbLNEJVE2uDm8pDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381998224341-9ivdqj953re4qdvmbl8nlk4q8ifu9q8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
