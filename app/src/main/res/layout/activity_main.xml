@@ -45,6 +45,13 @@
         android:layout_height="wrap_content"
         android:id="@+id/editpassword"
         android:layout_below="@+id/password"/>
-
+    <Button
+        android:id="@+id/btnlogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log In"
+        android:layout_marginTop="15sp"
+        android:layout_below="@+id/editpassword"
+        />
 
 </RelativeLayout>
